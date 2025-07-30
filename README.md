@@ -29,6 +29,17 @@
 </div>
 
 ###
+---
+
+### 🧠 Sobre mim
+
+- 🔧 Trabalho com desenvolvimento de bots, automações e sistemas web.  
+- 🎮 Administro servidores Minecraft e comunidades no Discord.  
+- 🌐 Curioso por segurança, redes, UI/UX e tecnologias modernas.  
+- 🖥️ Stack principal: Web, Desktop e Bots com foco em performance e design limpo.  
+
+---
+###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
