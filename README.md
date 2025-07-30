@@ -2,7 +2,7 @@
 
 ###
 
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -37,7 +37,6 @@
 - 🎮 Administro servidores Minecraft e comunidades no Discord.  
 - 🌐 Curioso por segurança, redes, UI/UX e tecnologias modernas.  
 - 🖥️ Stack principal: Web, Desktop e Bots com foco em performance e design limpo.  
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ---
 ###
 
