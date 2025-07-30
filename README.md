@@ -1,34 +1,47 @@
-<h1 align="center">Olá, eu sou o Matheus! 👋</h1>
-<h3 align="center">Também conhecido como <strong>fox</strong> 🦊 — Desenvolvedor Full Stack e entusiasta em automações, bots e servidores.</h3>
+<div align="center">
+  <h1>Olá, eu sou o Matheus! 👋</h1>
+  <h3>Também conhecido como <strong>fox</strong> 🦊 — Desenvolvedor Full Stack e entusiasta em automações, bots e servidores.</h3>
+</div>
 
-<p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="180" alt="fox gif" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+  
+  <!-- GIF à esquerda -->
+  <div>
+    <img src="https://i.imgflip.com/65efzo.gif" height="180" alt="fox gif" />
+  </div>
+  
+  <!-- GitHub Stats à direita -->
+  <div align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=foxredoficial&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxredoficial&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+  </div>
+</div>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 🔧 Trabalho com desenvolvimento de bots, automações e sistemas web.
-- 🎮 Administro servidores Minecraft e comunidades no Discord.
-- 🌐 Curioso por segurança, redes, UI/UX e tecnologias modernas.
-- 🖥️ Stack principal: Web, Desktop e Bots com foco em performance e design limpo.
+- 🔧 Trabalho com desenvolvimento de bots, automações e sistemas web.  
+- 🎮 Administro servidores Minecraft e comunidades no Discord.  
+- 🌐 Curioso por segurança, redes, UI/UX e tecnologias modernas.  
+- 🖥️ Stack principal: Web, Desktop e Bots com foco em performance e design limpo.  
 
 ---
 
 ### 🚀 Tecnologias que utilizo
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET Core" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
 </div>
 
 ---
@@ -54,15 +67,6 @@
   <a href="https://linkedin.com/in/seuusuario" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foxredoficial&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
