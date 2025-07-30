@@ -1,22 +1,25 @@
-<div align="center">
-  <h1>Olá, eu sou o Matheus! 👋</h1>
-  <h3>Também conhecido como <strong>fox</strong> 🦊 — Desenvolvedor Full Stack e entusiasta em automações, bots e servidores.</h3>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left" width="100%">
+      <h1>Olá, eu sou o Matheus! 👋</h1>
+      <h3>Também conhecido como <strong>fox</strong> 🦊 — Desenvolvedor Full Stack e entusiasta em automações, bots e servidores.</h3>
+    </td>
+    <td align="right">
+      <img src="https://i.imgur.com/qNwXZFX.png" height="120" alt="avatar" />
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-  
-  <!-- GIF à esquerda -->
-  <div>
-    <img src="https://i.imgflip.com/65efzo.gif" height="180" alt="fox gif" />
-  </div>
-  
-  <!-- GitHub Stats à direita -->
-  <div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=foxredoficial&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxredoficial&layout=compact&theme=tokyonight&hide_border=true" width="400" />
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=foxredoficial&show_icons=true&theme=tokyonight&hide_border=true" width="400px" />
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxredoficial&layout=compact&theme=tokyonight&hide_border=true" width="300px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,10 +70,4 @@
   <a href="https://linkedin.com/in/seuusuario" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
