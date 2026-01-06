@@ -34,7 +34,7 @@
 ### 🧠 Sobre mim
 
 - 🔧 Trabalho com desenvolvimento de bots, automações e sistemas web.  
-- 🎮 Administro servidores Minecraft e comunidades no Discord.  
+- 🎮 Administro servidores de games e serviços e comunidades no Discord.  
 - 🌐 Curioso por segurança, redes, UI/UX e tecnologias modernas.  
 - 🖥️ Stack principal: Web, Desktop e Bots com foco em performance e design limpo.  
 ---
